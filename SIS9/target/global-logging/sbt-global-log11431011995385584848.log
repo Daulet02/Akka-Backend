@@ -1,0 +1,7 @@
+[debug] > Exec(all {file:/C:/Users/user/Desktop/Akka_Backend/SIS9/}sis9/products {file:/C:/Users/user/Desktop/Akka_Backend/SIS9/}sis9/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 16 нояб. 2020 г., 16:12:13
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

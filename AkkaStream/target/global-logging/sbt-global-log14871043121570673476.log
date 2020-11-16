@@ -1,0 +1,13 @@
+[debug] > Exec(all {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/products {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\user\Desktop\Akka_Backend\AkkaStream\target\scala-2.13\classes ...
+[error] C:\Users\user\Desktop\Akka_Backend\AkkaStream\src\main\scala\Producer.scala:7:16: not found: value system
+[error]   val config = system.settings.config.getConfig("akka.kafka.producer")
+[error]                ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 0 s, completed 9 нояб. 2020 г., 13:25:15
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

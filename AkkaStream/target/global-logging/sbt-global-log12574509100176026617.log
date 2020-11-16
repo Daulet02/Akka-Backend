@@ -1,0 +1,13 @@
+[debug] > Exec(all {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/products {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\user\Desktop\Akka_Backend\AkkaStream\target\scala-2.13\classes ...
+[warn] 2 deprecations (since 2.13.0)
+[warn] 1 deprecation (since 2.13.3)
+[warn] 3 deprecations in total; re-run with -deprecation for details
+[warn] three warnings found
+[info] done compiling
+[success] Total time: 1 s, completed 8 нояб. 2020 г., 16:28:14
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

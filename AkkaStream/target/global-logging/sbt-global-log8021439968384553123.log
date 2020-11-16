@@ -1,0 +1,7 @@
+[debug] > Exec(all {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/products {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 8 нояб. 2020 г., 16:27:52
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

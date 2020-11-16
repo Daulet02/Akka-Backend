@@ -1,0 +1,9 @@
+[debug] > Exec(all {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/products {file:/C:/Users/user/Desktop/Akka_Backend/AkkaStream/}akkastream/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\user\Desktop\Akka_Backend\AkkaStream\target\scala-2.13\classes ...
+[info] done compiling
+[success] Total time: 5 s, completed 14 нояб. 2020 г., 17:53:35
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
